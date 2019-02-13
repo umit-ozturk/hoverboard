@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://wtmtekirdag2019.firebaseapp.com/",
+  "url": "https://wtmtek19.firebaseapp.com/",
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyAM-P7N1K7sXZ_3-dVDMEbkguQ8JgHwMlU",
-    "authDomain": "wtmtekirdag2019.firebaseapp.com",
-    "databaseURL": "https://wtmtekirdag2019.firebaseio.com",
-    "projectId": "wtmtekirdag2019",
-    "storageBucket": "wtmtekirdag2019.appspot.com",
-    "messagingSenderId": "847413903641"
+    "apiKey": "AIzaSyD9CKW_0IpV265FZdK8pJflPxCiTMPDyS4",
+    "authDomain": "wtmtek19.firebaseapp.com",
+    "databaseURL": "https://wtmtek19.firebaseio.com",
+    "projectId": "wtmtek19",
+    "storageBucket": "wtmtek19.appspot.com",
+    "messagingSenderId": "600759017897"
 
   },
   "googleMapApiKey": ""

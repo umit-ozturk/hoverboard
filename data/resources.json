@@ -1,43 +1,43 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "GDG WTM Tekirdag 2019",
+  "description": "Tekirdağ'daki en büyük kadın geliştirici etkinliği",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "27 Nisan, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
-  "partnershipResources": "Partnership Resources",
-  "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
-  "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "share": "Paylaş",
+  "followOur": "Bizi Takip Et",
+  "followUs": "Bizi Takip Et",
+  "emailUs": "E-mail ile ulaş",
+  "partnershipResources": "Sponsorluk Kaynakları",
+  "eventResources": "Etkinlik Kaynakları",
+  "buyTicket": "Kayıt Ol",
+  "signIn": "Giriş",
+  "signOut": "Çıkış",
+  "viewHighlights": "Öne Çıkanlar",
+  "offlineMessage": "Hala çevrimdışı çalışabilirsiniz.",
+  "cachingComplete": "Önbellek tamamlandı! Gelecekteki ziyaretler çevrimdışı çalışacak.",
+  "newVersionAvailable": "Yeni versiyon kullanımda.",
+  "refresh": "Yenile",
+  "position": "Pozisyon",
+  "country": "Ülke",
+  "time": "Zaman",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
+    "title": "Takvimim",
     "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Hakkımızda",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Tekirdağ",
+          "url": "https://gdgtekirdag.org/",
           "newTab": true
         },
         {
@@ -46,14 +46,14 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
+          "name": "Takımı Gör",
           "url": "https://devfest.gdg.org.ua/team/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Eski Etkinlikleri Keşfet",
       "links": [
         {
           "name": "DFUA 2013",
@@ -78,20 +78,20 @@
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "Etkinlik Kaynakları",
       "links": [
         {
-          "name": "Partnership Proposition",
+          "name": "Sponsorluk Dosyası",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
-          "name": "Info Partnership Proposition",
+          "name": "Sponsorluk Bilgi Önerisi",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
-          "name": "Media Kit",
+          "name": "Medya Kiti",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
@@ -108,169 +108,169 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "Spam yok, sadece en son haberler ve güncellemeler!",
+  "codeOfConduct": "Etkinlik Kuralları",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Sormadan önce bilmeniz gerekenler.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
+        "description": "GDG Tekirdağ'daki en büyük geliştirici etkinliğini düzenleyen bir yazılımcı topluluğudur. Ana desteğini Google'dan alan topluluk Tekirdağ bölgesinde aktif yazılım etkinlikleri düzenlemektedir.",
+        "label": "Önemli Anları Keşfet",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "description": "Bir önceki yıl neler oldu. Göz atmak için videomuzu izle.",
+        "label": "2018 Nasıldı?",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
+        "label": "Katılımcılar",
         "number": "900"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Günler",
+        "number": "1"
       },
       "sessions": {
-        "label": "Sessions",
+        "label": "Oturumlar",
         "number": "50"
       },
       "tracks": {
-        "label": "Tracks",
+        "label": "Paralel Oturumlar",
         "number": "4"
       }
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "title": "Biletler",
+    "ticketsDetails": "Biletler ücretsizdir",
+    "soldOut": "Kaçırdın :(",
+    "notAvailableYet": "Henüz Kullanımda Değil",
+    "save": "${discount}% İndirim"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Sponsorlar",
+    "button": "Sponsor Ol",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Sponsor Ol!",
+      "submitLabel": "Kaydet",
+      "fullName": "İsim Soyisim",
+      "companyName": "Şirket Adı"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Yakında sizin ile iletişime geçeceğiz!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DFTEK18 En Önemli Anlar",
     "callToAction": {
-      "label": "See all videos",
+      "label": "Tüm videoları Gör",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
     }
   },
   "blog": {
-    "published": "Published",
-    "suggested": "Up next"
+    "published": "Paylaşıldı",
+    "suggested": "Sıradaki"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "En yeni haberler",
     "callToAction": {
-      "label": "View all stories",
+      "label": "Bütün hikayeleri gör",
       "link": "/blog/"
     }
   },
   "speakers": {
-    "skills": "Skills",
-    "previousYears": "Years",
-    "previousYear": "Year"
+    "skills": "Yetenekler",
+    "previousYears": "Önceki Yıllar",
+    "previousYear": "Sonraki Yıllar"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Rockstar konuşmacılar",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Tüm Konuşmacıları Gör",
       "link": "/speakers/"
     }
   },
   "previousSpeakersBlock": {
     "title": "Previous speakers",
     "callToAction": {
-      "label": "View all",
+      "label": "Hepsini Gör",
       "link": "/previous-speakers/"
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#dftek18 highlights",
+    "description": "Geçen yılki etkinlik çok heyecanlıydı. Öne çıkan konuşmalardan, uygulamalı öğrenme oturumlarından ve mesai sonrası eğlenceden fotoğrafları inceleyin.",
     "callToAction": {
-      "label": "See all photos",
+      "label": "Tüm Fotoğrafları Gör",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Konum"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Önemli konferans güncellemeleri hakkında bilgi alın",
+      "label": "Abone Ol"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "E-mail",
+    "emailAddress": "E-mail Adresi",
+    "firstName": "İsim",
+    "lastName": "Soyisim",
+    "formTitle": "GDG Tekirdağ hakkındaki en son güncellemeleri, içgörü ve haberlerden haberdar olun.",
+    "emailRequired": "Geçerli bir e-posta adresi giriniz.",
+    "subscribe": "Abone Ol",
+    "subscribed": "Abone Olunda",
+    "close": "Kapat",
+    "generalError": "Bazı hatalar oluştu. Lütfen daha sonra tekrar deneyiniz.",
+    "toast": "Başarıyla Abone Olunda!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google tüm dünyada bilinir. Herkes googling yapıyor, haritaları kontrol ediyor ve gmail ile iletişim kuruyor. Basit kullanıcılar için bunlar sadece işe yarayan hizmetlerdir, bizim içinse pek öyle değildir. Geliştiriciler çok daha fazlasını görür: API'ler, ölçeklenebilirlik sorunları, karmaşık teknoloji yığınları. Ve GDG'nin konusu da bu. <br> <br> [Google Geliştiriciler Grubu (GDG) Tekirdağ] (https://gdgtekirdag.org/) - heyecan verici projeler üreten ve paylaşan açık ve gönüllü bir topluluktur. Google teknolojilerini tutkuyla deneyimlemek. <br> <br> Amacımız, BT'nin gelişimini artırmak için en iyi endüstri uzmanlarını Tekirdağ izleyicilerle buluşturmak için bir etkinlik düzenlemek."
   },
   "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
+    "saveSessionsSignedOut": "Oturumunuzu kaydetmek içi giriş yapın."
   },
   "sessionDetails": {
-    "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
-    "speakers": "Speakers"
+    "contentLevel": "İçerik seviyesi",
+    "viewPresentation": "Sunumu Göster",
+    "viewVideo": "Videoyu Göster",
+    "speakers": "Konuşmacılar"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Oturumlar"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Bilidirimleri Aktif Et",
+    "enabled": "Sizi özleyeceğiz ama aboneliğinizi iptal edebilirsiniz",
+    "blocked": "Size şu anda bildirim gönderemiyoruz. Lütfen tarayıcınızda bildirimleri etkinleştirin",
+    "subscribe": "Abone Ol",
+    "unsubscribe": "Abonelikten Çık",
     "enable": {
-      "label": "Enable",
+      "label": "Aktif Et",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
-      "title": "Open"
+      "title": "Aç"
     }
   },
   "aboutOrganizerBlock": {
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizatör",
+        "description": "<a href='https://gdgtekirdag.org/' target='_blank'>GDG Tekirdağ</a> Tekirdağ çevresinde yazılım farkındalığı oluşturmak ve Google teknolojilerini yaygınlaştırmak için kurulmuş bir topluluktur. Takım Sayfasından organizatörleri tanıyabilirsiniz.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Takım Sayfası",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "GDG Nedir?",
+        "description": "Google Developer Grup (GDG) - heyecan verici projeler oluşturan ve Google teknolojileriyle ilgili deneyimlerini bir tutkuyla paylaşan açık ve gönüllü bir topluluktur.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Daha fazla oku.",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
@@ -278,21 +278,21 @@
     ]
   },
   "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
-    "alreadyUsed": "You've already used",
+    "alreadyHaveAccount": "Zaten bir üyeliğiniz mevcut.",
+    "alreadyUsed": "Zaten kullanılıyor.",
     "signInToContinue": {
-      "part1": "Sign in with",
+      "part1": "Bunun ile bağlan",
       "part2": "to continue."
     }
   },
   "filters": {
-    "title": "Filters",
-    "results": "Results",
+    "title": "Filtreler",
+    "results": "Sonuçlar",
     "tags": "Tags",
-    "complexity": "Complexity",
-    "clear": "Clear all"
+    "complexity": "Karmaşıklık",
+    "clear": "Hepsini Sil"
   },
   "addToHomeScreen": {
-    "cta": "Add to Home Screen"
+    "cta": "Ana Ekrana Ekle"
   }
 }
